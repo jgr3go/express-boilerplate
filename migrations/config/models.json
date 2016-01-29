@@ -1,0 +1,5 @@
+{
+    "models": [
+        "../server/api/user/user.model.js"
+    ]
+}
